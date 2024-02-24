@@ -1,0 +1,146 @@
+body{
+    margin: 50px 140px 1px 140px;
+
+}
+.banner{
+    background-image: url(image/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+}
+
+    
+
+.banner-greeting{
+    text-align: center;
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400px; 
+    font-style: normal; 
+    padding: 165px 0px 0px 0px;
+}
+.banner-title{
+    text-align: center;
+    color: #FFF;
+    font-size: 72px;
+    padding: 0px 344px 280px 344px;
+}
+/* section  */
+.banner2{
+    background-color: #FFF;
+    width: 1600px;
+    height: 860px;
+}
+.greeting{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.paragraph{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.head2{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.new-year{
+    padding:0px 398px 0px 399px ;
+}
+/* section-3 */
+.banner-3{
+    background-image: url(image/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0; 
+    display: flex;
+    justify-content: space-between;
+    
+}
+.banner-03{
+    padding: 126px 0px 142px 126px;
+}
+.mat{
+    color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px;
+}
+.mat-1{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.mat-3{
+    color: #FFF;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.mat-4{
+    width: 319.83px;
+height: 464.662px;
+padding: 68px 133px 67px 0px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+/* banner-4 */
+.banner-4{
+    background-color:rosybrown;
+    width: 1320px;
+    height: 482px;
+    margin-top: 30px;
+   padding-top: 100px; 
+
+}
+.section-1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+line-height: 56px; 
+}
+.button{
+    padding: 16px 32px;
+    border-radius: 8px;
+background: #F00;
+font-size: 20px;
+color: #FFF;
+}
+/* banner-5 */
+.section-5{
+    background-color: #FFF;
+    width: 1320px;
+    height: 463px;
+    margin: 30px;
+
+}
+   
+    
