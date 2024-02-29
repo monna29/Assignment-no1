@@ -136,11 +136,15 @@ color: #FFF;
 }
 /* banner-5 */
 .section-5{
-    background-color: #FFF;
-    width: 1320px;
-    height: 463px;
-    margin: 30px;
-
+    display: flex;
+    margin-top: 50px;
+}
+.New section title{
+    font-size: 100px;
+    color: #F00;
+}
+.Photo section{
+    padding-right: 100px;
 }
    
     
