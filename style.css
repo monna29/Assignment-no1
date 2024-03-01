@@ -136,15 +136,30 @@ color: #FFF;
 }
 /* banner-5 */
 .section-5{
+    width: 1320px;
+    height: 380px;
     display: flex;
     margin-top: 50px;
-}
-.New section title{
-    font-size: 100px;
-    color: #F00;
-}
-.Photo section{
-    padding-right: 100px;
-}
-   
+    justify-content: space-around;
     
+    
+}
+.New-section-title{
+    font-size: 24px;
+    color: #F00;
+    padding-top: 40px;
+    
+}
+.New-section-Heading{
+    font-size: 48px;
+    
+    
+}
+.number-title{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.img-footer{
+    padding-top: 40px;
+}   
