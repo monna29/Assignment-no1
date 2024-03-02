@@ -143,6 +143,7 @@ color: #FFF;
     justify-content: space-around;
     
     
+    
 }
 .New-section-title{
     font-size: 24px;
@@ -162,4 +163,107 @@ color: #FFF;
 }
 .img-footer{
     padding-top: 40px;
-}   
+} 
+
+/* banner-05   */
+.sale-section{
+    margin-top: 100px;
+
+}
+.banner-05{
+    
+    display: flex; 
+    width: 1340px;
+    height: 660px;
+    
+    background-image: url(image/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.sale-titel{
+    text-align: center;
+    font-size: 24px;
+    
+}
+.sale-heading{
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+}
+.sal-description{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.sale-discount{
+    background-image:url(image/Rectangle\ 1.png) ;
+    background-repeat: no-repeat;
+    width: 535px;
+    background-position:top right;
+   
+    
+}
+.sale-discount-img{
+    
+    padding-top: 80px;
+
+}
+
+/* gift section */
+
+.gift-section{
+    margin-top: 100px;
+    
+}
+.gift-title{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.gift-heading{
+    font-size: 48px;
+    font-weight: 900;
+}
+.gift-description{
+    font-size: 20px;
+    font-weight: 200;
+    
+}
+  
+
+.gift-01{
+  display: flex; 
+  gap: 22px; 
+  padding-top: 48px;
+}
+.gift-02{
+    display: flex;
+    gap: 22px; 
+    padding-top: 22px;
+}
+
+/* subscribe section */
+.subscribe-section{
+    width: 1320px;
+    height: 616px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 142px;
+    text-align: center;
+    padding-top: 80px;
+
+
+}
+.subscribe-heading{
+    font-size: 48px;
+    font-weight: 900;
+}
+.subscribe-describtion{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    
+}
+    
+    
+    
