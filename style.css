@@ -1,11 +1,14 @@
-body{
+main{
     margin: 50px 140px 1px 140px;
 
 }
+
 .banner{
     background-image: url(image/Banner\ Image.png);
+    background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
+    margin: 50px 140px 1px 140px;
 }
 
     
@@ -29,6 +32,7 @@ body{
     background-color: #FFF;
     width: 1600px;
     height: 860px;
+    margin: 100px 0;
 }
 .greeting{
     color: #F00;
@@ -244,10 +248,14 @@ color: #FFF;
 }
 
 /* subscribe section */
-.subscribe-section{
+.subscribe-01{
     width: 1320px;
     height: 616px;
     background: rgba(255, 0, 0, 0.05);
+}
+.subscribe-section{
+    
+   
     margin-top: 142px;
     text-align: center;
     padding-top: 80px;
@@ -262,8 +270,56 @@ color: #FFF;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
+   
     
 }
+.submit-batton{
+    text-align: center;
+}
+
+     
+input{
+    width: 460px;
+    height: 60px;
+    border: none;
+    border-radius: 8px;
+}
+
     
+
+/* footer-section */
+
+.footer-section{
+    width: 1600px;
+    height: 500px;
+    background-color: #070211;
+    margin-top: 100px;
     
+   
+    
+}
+
+.address-section{
+    display: flex;
+    
+    justify-content: space-around;
+    padding: 120px 240px;
+    
+}
+ 
+.footer-text{
+    color:#FFF;
+}
+.fjdfjdk{
+    display: flex;
+}
+.footer-icon{
+    padding:100px 100px;
+    
+}
+.Reserved-text{
+    color:#FFF;
+    padding-top: 230px;
+
+}
     
